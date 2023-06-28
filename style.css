@@ -7,21 +7,3 @@ body {
   text-align: center;
 }
 
-.lock {
-  text-align: right;
-  margin-right: 20px;
-}
-
-.jock {
-  text-align: left;
-}
-
-.clack {
-  margin-top: 0;
-  margin-bottom: 0;
-  margin-left: 250px
-}
-
-.knock {
-  margin-bottom: -30px;
-}
